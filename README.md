@@ -15,7 +15,7 @@
  ![客户端](28-3.PNG)
  ![客户端](28-4.PNG)
  ![开奖端](kaijiang-1.PNG)
- ![开奖端](kaijiang-2.PNG)
+ ![开奖端](kaijiang=2.PNG)
 
 ## 功能特点
 
